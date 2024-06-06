@@ -1,6 +1,7 @@
-## loading... 🚧
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
 
 <!--
+## loading... 🚧
 **akauzinha47/akauzinha47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
