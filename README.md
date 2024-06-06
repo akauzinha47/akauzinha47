@@ -1,4 +1,4 @@
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=true&langs_count=7&theme=dark&bg_color=0d1117"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=true&langs_count=7&theme=nightowl&bg_color=0d1117"/>
 
 <!--
 ## loading... 🚧
