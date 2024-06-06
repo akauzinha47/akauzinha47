@@ -1,8 +1,10 @@
 ### welcome to my profile! 
 ### here, have a  seat 🪑
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=false&langs_count=7&theme=buefy
-  
-![Kau's GitHub stats](https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=dark&show_icons=true)
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=false&langs_count=7&theme=buefy>  
+(https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=buefy&show_icons=true)
+
+
 <!--
 ## loading... 🚧
 **akauzinha47/akauzinha47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
