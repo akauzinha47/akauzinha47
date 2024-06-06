@@ -3,10 +3,10 @@
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=true&langs_count=7&theme=buefy/>
 
-![Kauane Menezes's GitHub stats](https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=buefy&show_icons=true)
 
 
 <!--
+![Kauane Menezes's GitHub stats](https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=buefy&show_icons=true)
 ## loading... 🚧
 **akauzinha47/akauzinha47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
