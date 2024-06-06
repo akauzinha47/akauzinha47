@@ -1,4 +1,8 @@
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=true&langs_count=7&theme=buefy"/>
+<div>
+## welcome to my profile! 
+### here, have a  seat 🪑
+<\div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=false&langs_count=7&theme=buefy"/>
 
 <!--
 ## loading... 🚧
