@@ -1,8 +1,11 @@
 ### welcome to my profile! 
 ### here, have a  seat 🪑
 
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=false&langs_count=7&theme=nightowl"/>
-  ![Kauane Menezes's GitHub stats](https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=nightowl&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akauzinha47&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akauzinha47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=akauzinha47&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 
 
