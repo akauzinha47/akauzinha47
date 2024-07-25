@@ -1,9 +1,12 @@
 ### welcome to my profile! 
 ### here, have a  seat 🪑
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=false&langs_count=7&theme=nightowl"/>
+<div> 
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akauzinha47&layout=compact&hide_border=false&langs_count=7&theme=nightowl"/>
+  <img src="https://streak-stats.demolab.com?user=akauzinha47&locale=en&mode=daily&theme=nightoul&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  ![Kauane Menezes's GitHub stats](https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=nightowl&show_icons=true)
+</div>
 
-![Kauane Menezes's GitHub stats](https://github-readme-stats.vercel.app/api?username=akauzinha47&theme=nightowl&show_icons=true)
 
 <!--
 
